@@ -5,7 +5,7 @@ UI for [Ordering API Demo](https://github.com/EdwinWalela/ordering)
 Oauth2 flow using Github as auth provider
 
 <center>
-<img src="./demo.png" alt="drawing" width="400"/>
+<img src="./demo.png" alt="drawing" width="600"/>
 </center>
 
 ## Running locally
